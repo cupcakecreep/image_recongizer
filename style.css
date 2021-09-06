@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+body{
+    background-color: blueviolet;
+    color: cyan;
+}
+.Objects{
+    color: pink;
+}
+#camera{
+    width: 400px;
+    height: 350px;
+    border: 10px ridge rgb(155, 199, 228);
+    
+
+}
+#object_name,#object_accuracy{
+    color: rgb(248, 205, 212);
+}
